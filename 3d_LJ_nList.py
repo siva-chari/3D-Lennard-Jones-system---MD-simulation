@@ -2,7 +2,7 @@
 """
 Created on Mon Sep  6 13:41:55 2021
 
-@author: Archana P S
+@author: Siva N. Chari S.
 """
 # 3d lattice
 
